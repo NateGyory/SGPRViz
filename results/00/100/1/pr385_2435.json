@@ -1,0 +1,254 @@
+{
+    "poses": [
+        {
+            "probability": 0.7777777777777778,
+            "query_id": 2435
+        },
+        {
+            "probability": 0.6666666666666666,
+            "query_id": 2436
+        },
+        {
+            "probability": 0.7777777777777778,
+            "query_id": 2437
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2438
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2439
+        },
+        {
+            "probability": 0.7777777777777778,
+            "query_id": 2440
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2441
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2442
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2443
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2444
+        },
+        {
+            "probability": 0.7,
+            "query_id": 2445
+        },
+        {
+            "probability": 1.0,
+            "query_id": 2446
+        },
+        {
+            "probability": 0.7777777777777778,
+            "query_id": 2447
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2448
+        },
+        {
+            "probability": 1.0,
+            "query_id": 2449
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2450
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2451
+        },
+        {
+            "probability": 0.8,
+            "query_id": 2452
+        },
+        {
+            "probability": 0.9,
+            "query_id": 2453
+        },
+        {
+            "probability": 0.9,
+            "query_id": 2454
+        },
+        {
+            "probability": 0.9,
+            "query_id": 2455
+        },
+        {
+            "probability": 1.0,
+            "query_id": 2456
+        },
+        {
+            "probability": 0.8,
+            "query_id": 2457
+        },
+        {
+            "probability": 0.9,
+            "query_id": 2458
+        },
+        {
+            "probability": 0.8,
+            "query_id": 2459
+        },
+        {
+            "probability": 0.9,
+            "query_id": 2460
+        },
+        {
+            "probability": 0.9,
+            "query_id": 2461
+        },
+        {
+            "probability": 1.0,
+            "query_id": 2462
+        },
+        {
+            "probability": 1.0,
+            "query_id": 2463
+        },
+        {
+            "probability": 1.0,
+            "query_id": 2464
+        },
+        {
+            "probability": 0.8888888888888888,
+            "query_id": 2465
+        },
+        {
+            "probability": 0.8,
+            "query_id": 2466
+        },
+        {
+            "probability": 0.8,
+            "query_id": 2467
+        },
+        {
+            "probability": 0.8,
+            "query_id": 2468
+        },
+        {
+            "probability": 0.7,
+            "query_id": 2469
+        },
+        {
+            "probability": 0.8,
+            "query_id": 2470
+        },
+        {
+            "probability": 0.9,
+            "query_id": 2471
+        },
+        {
+            "probability": 0.7,
+            "query_id": 2472
+        },
+        {
+            "probability": 0.9,
+            "query_id": 2473
+        },
+        {
+            "probability": 0.8,
+            "query_id": 2474
+        },
+        {
+            "probability": 0.8,
+            "query_id": 2475
+        }
+    ],
+    "pred": [
+        0.7777777777777778,
+        0.6666666666666666,
+        0.7777777777777778,
+        0.8888888888888888,
+        0.8888888888888888,
+        0.7777777777777778,
+        0.8888888888888888,
+        0.8888888888888888,
+        0.8888888888888888,
+        0.8888888888888888,
+        0.7,
+        1.0,
+        0.7777777777777778,
+        0.8888888888888888,
+        1.0,
+        0.8888888888888888,
+        0.8888888888888888,
+        0.8,
+        0.9,
+        0.9,
+        0.9,
+        1.0,
+        0.8,
+        0.9,
+        0.8,
+        0.9,
+        0.9,
+        1.0,
+        1.0,
+        1.0,
+        0.8888888888888888,
+        0.8,
+        0.8,
+        0.8,
+        0.7,
+        0.8,
+        0.9,
+        0.7,
+        0.9,
+        0.8,
+        0.8
+    ],
+    "truth": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+    ]
+}

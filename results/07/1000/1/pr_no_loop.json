@@ -1,0 +1,14 @@
+{
+    "poses": [
+        {
+            "probability": 0.1,
+            "query_id": 155
+        }
+    ],
+    "pred": [
+        0.1
+    ],
+    "truth": [
+        0
+    ]
+}

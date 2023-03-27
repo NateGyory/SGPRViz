@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: save_ply
+Description: Description of save_ply
+Version: 0.0.1
+Cflags: 
+Libs: -L${prefix}/lib -lsave_ply
+Requires: roscpp rospy

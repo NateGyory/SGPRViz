@@ -1,0 +1,62 @@
+{
+    "poses": [
+        {
+            "probability": 0.0,
+            "query_id": 650
+        },
+        {
+            "probability": 0.09090909090909091,
+            "query_id": 700
+        },
+        {
+            "probability": 0.0,
+            "query_id": 750
+        },
+        {
+            "probability": 0.0,
+            "query_id": 800
+        },
+        {
+            "probability": 0.07692307692307693,
+            "query_id": 850
+        },
+        {
+            "probability": 0.0,
+            "query_id": 900
+        },
+        {
+            "probability": 0.0,
+            "query_id": 950
+        },
+        {
+            "probability": 0.08333333333333333,
+            "query_id": 1000
+        },
+        {
+            "probability": 0.0,
+            "query_id": 1050
+        }
+    ],
+    "pred": [
+        0.0,
+        0.09090909090909091,
+        0.0,
+        0.0,
+        0.07692307692307693,
+        0.0,
+        0.0,
+        0.08333333333333333,
+        0.0
+    ],
+    "truth": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+    ]
+}
